@@ -1,6 +1,7 @@
 {
 "time":"Mon Aug 26 16:28:54 2021",
- "data": [{ "Sintomas mentales":11, "Sintomas COVID":19, "day":"2021-05-01"},
+ "data": [{ "Sintomas mentales":5, "Sintomas COVID":9, "day":"2020-10-05"},
+{ "Sintomas mentales":11, "Sintomas COVID":19, "day":"2021-05-01"},
 { "Sintomas mentales":8, "Sintomas COVID":15, "day":"2021-05-02"},
 { "Sintomas mentales":8, "Sintomas COVID":19, "day":"2021-05-03"},
 { "Sintomas mentales":12, "Sintomas COVID":24, "day":"2021-05-04"},
